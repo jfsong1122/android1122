@@ -11,7 +11,7 @@ android {
         minSdkVersion MIN_SDK_VERSION
         targetSdkVersion TARGET_SDK_VERSION
         versionCode 2000
-        versionName "2.0.0"
+        versionName "2.0.1"
 
     }
 
